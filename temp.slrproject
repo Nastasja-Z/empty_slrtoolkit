@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><slrProjectMetainformation>
     <title>test4</title>
-    <keywords/>
-    <projectAbstract>abstract</projectAbstract>
+    <keywords>test2</keywords>
+    <projectAbstract>abstract
+abstract</projectAbstract>
     <taxonomyDescription/>
-    <authorsList>
-        <email/>
-        <name/>
-        <organisation/>
+    
+
+<authorsList>
+        <email>zxfghj</email>
+        <name>zxcvbn</name>
+        <organisation>xdfghj</organisation>
+    </authorsList>
+<authorsList>
+        <email>dfbvgdnb</email>
+        <name>fvdg</name>
+        <organisation>dfvfgbgd</organisation>
     </authorsList>
 </slrProjectMetainformation>
